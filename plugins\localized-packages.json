@@ -1,0 +1,130 @@
+[
+  {
+    "internalName": "Artisan",
+    "version": "4.0.5.16",
+    "method": "旧汉化映射复用 + 本地字符串补丁",
+    "package": "Artisan-4.0.5.16-zh.zip",
+    "size": 11502747,
+    "sha256": "F84B922639E66CE2FBDB971AC74EBF70267948DDB07905A487941186F050FE34",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/Artisan-4.0.5.16-zh.zip",
+    "dllSha256": "138EBFF0C92B2C26D9C2A912FD65D184AC202147CDA32FEB58EF1A682B08D1E4",
+    "maps": [
+      "Artisan.final.zh-Hans.json",
+      "Artisan.curated2.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；未整包降级。"
+  },
+  {
+    "internalName": "AutoHook",
+    "version": "6.0.0.67",
+    "method": "补齐 zh 资源 DLL",
+    "package": "AutoHook-6.0.0.67-zh.zip",
+    "size": 4014162,
+    "sha256": "91ACD8CA081E547E58C850D91275043AEC99FFBD6AF333F5036A6CB533D7269A",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/AutoHook-6.0.0.67-zh.zip",
+    "dllSha256": "3244E97BF34CDE0BFECABB6CF2EE3700873B9C05FC3D62AB0E3EF0E1367341AA",
+    "maps": [],
+    "notes": "主 DLL 未改；新增 zh/AutoHook.resources.dll。"
+  },
+  {
+    "internalName": "BossModReborn",
+    "version": "7.5.1.23",
+    "method": "本地字符串补丁",
+    "package": "BossModReborn-7.5.1.23-zh.zip",
+    "size": 7394530,
+    "sha256": "F60524A1EB9231026E30005E2165BFBE05191D9218EBEF514CE5F83A26A1CB13",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/BossModReborn-7.5.1.23-zh.zip",
+    "dllSha256": "D725EFC1E70810D242F03415BCE7A9DD10A53F2A7A334F3405ED94854F3A35DB",
+    "maps": [
+      "BossModReborn.final.zh-Hans.json",
+      "BossModReborn.curated2.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖。"
+  },
+  {
+    "internalName": "GatherBuddyReborn",
+    "version": "7.5.0.3",
+    "method": "旧汉化映射复用 + 本地字符串补丁",
+    "package": "GatherBuddyReborn-7.5.0.3-zh.zip",
+    "size": 6932734,
+    "sha256": "AAB4595822F0A29D127E20C919826AAA3FE80BDECD62272A06165A626E03DB53",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/GatherBuddyReborn-7.5.0.3-zh.zip",
+    "dllSha256": "24C99065FA23DE8FF955CBB72E9AD0A2152C010D657E52969DFBD9898C6C029D",
+    "maps": [
+      "GatherBuddyReborn.final.zh-Hans.json",
+      "GatherBuddyReborn.curated2.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；未整包降级。"
+  },
+  {
+    "internalName": "ICE",
+    "version": "1.0.0.0",
+    "method": "旧汉化映射复用 + 本地字符串补丁",
+    "package": "ICE-1.0.0.0-zh.zip",
+    "size": 13200013,
+    "sha256": "3EFAEC33476B995847D64489FFA7CC49BF7A9A3C0D28FA840856484EBA5A4354",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/ICE-1.0.0.0-zh.zip",
+    "dllSha256": "0B8BF149F55885032B925B07871E84E98A63C456B01EECC2E8342571AE114F1E",
+    "maps": [
+      "ICE.final.zh-Hans.json",
+      "ICE.curated2.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；未整包降级。"
+  },
+  {
+    "internalName": "MacroMate",
+    "version": "1.0.27.4",
+    "method": "本地字符串补丁",
+    "package": "MacroMate-1.0.27.4-zh.zip",
+    "size": 792353,
+    "sha256": "9634578294DE2A46FCF6AFE319B1914941AA13F1E0080C8CDF7A35DC9E2D4F48",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/MacroMate-1.0.27.4-zh.zip",
+    "dllSha256": "09BCF77BC67AD34A9721374460CB4263DE76F659B44596E055563A694E2A242C",
+    "maps": [
+      "MacroMate.zh-Hans.json",
+      "MacroMate.extra.zh-Hans.json",
+      "MacroMate.extra2.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖。"
+  },
+  {
+    "internalName": "TeamcraftListMaker",
+    "version": "1.0.1.2",
+    "method": "本地字符串补丁",
+    "package": "TeamcraftListMaker-1.0.1.2-zh.zip",
+    "size": 15192,
+    "sha256": "CE2F05E032C7921BB6B34846757D67D902A32B3063B8E16D33CEA4450CF97AA9",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/TeamcraftListMaker-1.0.1.2-zh.zip",
+    "dllSha256": "46A0C05DC6D7163FFC4FA3BCC6C8FD25FB1F907900C65F2E9B3773727841A326",
+    "maps": [
+      "TeamcraftListMaker.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖。"
+  },
+  {
+    "internalName": "WorkshopOptimizerPlugin",
+    "version": "0.3.2.0",
+    "method": "本地字符串补丁",
+    "package": "WorkshopOptimizerPlugin-0.3.2.0-zh.zip",
+    "size": 48108,
+    "sha256": "CD8651A8F9A2AEE1F1FE8D448737026100392AEA0A4AB56C1A02B8723E1D48AB",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/WorkshopOptimizerPlugin-0.3.2.0-zh.zip",
+    "dllSha256": "71E76DFB227DAA6617D2C8AB0D3FCB88162003448793969AFFA2C789F4EEC5EF",
+    "maps": [
+      "WorkshopOptimizerPlugin.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖。"
+  },
+  {
+    "internalName": "WrathCombo",
+    "version": "1.0.4.13",
+    "method": "补齐 zh-Hans 资源 DLL",
+    "package": "WrathCombo-1.0.4.13-zh.zip",
+    "size": 2552538,
+    "sha256": "EC56AF74F86E985921FCD61EE5321FCFFA8C707FDCFD4180F7EACF4634991408",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/WrathCombo-1.0.4.13-zh.zip",
+    "dllSha256": "444C08393EE01BD1F3A301FD1FE5844A823B1E6C31C05EB877F85398A3AE2323",
+    "maps": [],
+    "notes": "主 DLL 未改；新增 zh-Hans/WrathCombo.resources.dll。"
+  }
+]

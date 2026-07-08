@@ -1,0 +1,13 @@
+{
+  "GTFO from baited aoe!": "离开诱导 AOE！",
+  "Can't save new preset as copy": "无法将新预设另存为副本",
+  "Max distance to look for new mobs": "搜索新目标的最大距离",
+  "Camera Azimuth": "相机方位角",
+  "Create new region": "创建新区域",
+  "In degrees; 0 is south, increases CCW (so 90 is E, 180 is N, -90 is W)": "单位为度；0 为南，逆时针增加（90 为东，180 为北，-90 为西）",
+  "Keep using duty action on the ": "持续对其使用任务动作：",
+  "Merge by mesh-id list (hex pointers, any separators: , ; space tab newline)": "按 mesh-id 列表合并（十六进制指针，分隔符可用逗号、分号、空格、Tab 或换行）",
+  "Select preset to edit or create a new one.": "选择要编辑的预设，或创建新预设。",
+  "To select a new preset, you need to either save or discard them.": "要选择新预设，需要先保存或放弃当前改动。",
+  "Wrong resolution for map; should be 0.5, got ": "地图分辨率错误；应为 0.5，实际为 "
+}

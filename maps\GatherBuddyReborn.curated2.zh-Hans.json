@@ -1,0 +1,6 @@
+{
+  "Explain how to build and assign collectables purchase lists using Vulcan Vendors and Vendor Buy Lists.": "说明如何使用 Vulcan 商人和商人购买列表创建并分配收藏品购买列表。",
+  "Host addon ChatLog is unavailable; skipping native item tooltip.": "宿主插件 ChatLog 不可用；跳过原生物品悬浮提示。",
+  "Host addon root node is unavailable; skipping native item tooltip.": "宿主插件根节点不可用；跳过原生物品悬浮提示。",
+  " was not declared in any collection; defaulting to the default collection.": " 未在任何集合中声明；将使用默认集合。"
+}

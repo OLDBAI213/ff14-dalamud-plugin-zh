@@ -1,0 +1,8 @@
+# Local build artifacts
+dist/
+build/
+source/
+strings/
+tools/
+*.bak
+*.orig
