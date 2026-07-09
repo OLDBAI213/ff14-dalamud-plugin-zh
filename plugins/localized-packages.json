@@ -18,17 +18,17 @@
   },
   {
     "internalName": "AutoHook",
-    "version": "6.0.0.67",
+    "version": "6.0.0.68",
     "method": "补齐并修正 zh 资源 DLL",
-    "package": "AutoHook-6.0.0.67-zh.zip",
-    "size": 4014092,
-    "sha256": "3F602AFCF90D041EA2EBC81B71B768D73678F5F688F8F100F2A7732669148684",
-    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/AutoHook-6.0.0.67-zh.zip",
-    "dllSha256": "3244E97BF34CDE0BFECABB6CF2EE3700873B9C05FC3D62AB0E3EF0E1367341AA",
+    "package": "AutoHook-6.0.0.68-zh.zip",
+    "size": 4011647,
+    "sha256": "F419F16D617310CCAAB93F6915A8D3CDC13BA1DFFD243DC75371227C7EDC94A5",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/AutoHook-6.0.0.68-zh.zip",
+    "dllSha256": "6D18FD1C6D6812FAE847D8D0100FDA9792A1538F0152E4FE05BE6D3E9549AAED",
     "maps": [
       "AutoHook.zh-resource-hotfix1.json"
     ],
-    "notes": "主 DLL 未改；zh 资源 527 条中只变更 19 条，修正提钩、鱼识、专一垂钓、拍击水面、大鱼猎手、熟练妙招等捕鱼术语。"
+    "notes": "主 DLL 为官方 6.0.0.68；zh 资源 453 个官方键基础上应用 19 条热修，并补入 SparefulHand_Settings。修正提钩、专一垂钓、拍击水面、大鱼猎手、熟练妙招等捕鱼术语。"
   },
   {
     "internalName": "BossModReborn",

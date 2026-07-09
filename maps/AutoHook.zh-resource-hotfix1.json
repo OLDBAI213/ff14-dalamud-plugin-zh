@@ -1,0 +1,97 @@
+[
+  {
+    "Key": "Acton_Alert_Manual_Hook",
+    "Old": "注意！如果手动提钩，将会停止自动抛竿。",
+    "New": "重要！如果手动提钩，将不会自动使用技能。"
+  },
+  {
+    "Key": "EnableHookingTimer",
+    "Old": "使用挂钩计时器",
+    "New": "使用提钩计时器"
+  },
+  {
+    "Key": "ExportFolderClipboard",
+    "Old": "导出文件夹到剪贴板",
+    "New": "将文件夹导出到剪贴板"
+  },
+  {
+    "Key": "FolderMostBeEmpty",
+    "Old": "文件夹必须为空才能删除",
+    "New": "文件夹为空时才能删除"
+  },
+  {
+    "Key": "HookingTimer",
+    "Old": "挂钩计时",
+    "New": "提钩计时"
+  },
+  {
+    "Key": "HookingTimerHelpText",
+    "Old": "只在设定时长之间才提钩",
+    "New": "仅当咬钩发生在最小和最大等待时间之间时才提钩"
+  },
+  {
+    "Key": "HookType",
+    "Old": "挂钩类型",
+    "New": "提钩类型"
+  },
+  {
+    "Key": "Multihook_Settings",
+    "Old": "加钩设置",
+    "New": "多重提钩设置"
+  },
+  {
+    "Key": "NormalPatienceHookset",
+    "Old": "提什么 / 用轻重",
+    "New": "普通提钩 / 耐心提钩"
+  },
+  {
+    "Key": "Prize_Catch_Options",
+    "Old": "珍稀钓钩选项",
+    "New": "大鱼猎手选项"
+  },
+  {
+    "Key": "Prize_Catch_Required",
+    "Old": "仅在珍稀钓钩启用时提钩",
+    "New": "仅在大鱼猎手激活时提钩"
+  },
+  {
+    "Key": "SparefulHand_HelpText",
+    "Old": "",
+    "New": "采集力达到阈值时自动使用熟练妙招"
+  },
+  {
+    "Key": "SparefulHand_Settings",
+    "Old": "Spareful Hand 设置",
+    "New": "熟练妙招设置"
+  },
+  {
+    "Key": "Status_IdenticalCastNotRequired",
+    "Old": "跳过咬钩 - 专一垂钓未激活，但提钩需要其激活",
+    "New": "跳过咬钩 - 专一垂钓已激活，但提钩条件要求其未激活"
+  },
+  {
+    "Key": "Status_IdenticalCastRequired",
+    "Old": "跳过咬钩 - 专一垂钓已激活，但提钩无需其激活",
+    "New": "跳过咬钩 - 提钩需要专一垂钓激活，但当前未激活"
+  },
+  {
+    "Key": "Status_PrizeCatchNotRequired",
+    "Old": "跳过咬钩 - 大鱼猎手已激活，但提钩无需其激活",
+    "New": "跳过咬钩 - 大鱼猎手已激活，但提钩条件要求其未激活"
+  },
+  {
+    "Key": "Status_SurfaceSlapNotRequired",
+    "Old": "跳过咬钩 - 拍击水面已激活，但提钩无需其激活",
+    "New": "跳过咬钩 - 拍击水面已激活，但提钩条件要求其未激活"
+  },
+  {
+    "Key": "TabDefaultPreset_Description",
+    "Old": "当未检测到自定义的鱼饵/以小到大/鱼/自动抛竿时，将使用默认预设。 在这里您可以设置用于所有鱼饵和以小钓大的挂钩行为，除非创建了自定义预设。 \n请检查指南选项卡。",
+    "New": "当未检测到自定义鱼饵/以小钓大/鱼/自动抛竿设置时，将使用默认预设。你可以在这里设置所有鱼饵和以小钓大默认使用的提钩行为，除非另外创建了自定义预设。`n请检查指南选项卡。"
+  },
+  {
+    "Key": "TabGlobalPreset_Description",
+    "Old": "当未检测到自定义的鱼饵/以小到大/鱼/自动抛竿时，将使用默认预设。 在这里您可以设置用于所有鱼饵和以小钓大的挂钩行为，除非创建了自定义预设。 请检查指南选项卡。",
+    "New": "当未检测到自定义提钩/已钓鱼数/自动抛竿设置时，将使用全局预设。你可以在这里设置所有鱼饵和以小钓大默认使用的全局行为，除非另外创建了自定义预设。"
+  }
+]

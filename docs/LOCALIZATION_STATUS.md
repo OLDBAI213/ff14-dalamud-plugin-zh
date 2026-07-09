@@ -5,7 +5,7 @@ Updated: 2026-07-09 15:40 CST
 ## Localized Packages
 
 - Artisan 4.0.5.16: localized DLL, latest SHA256 A2BA4E654FDA59F7C7889D76449318B0EF42A3F38E1E9D46E1020DC706E8084E
-- AutoHook 6.0.0.67: localized zh satellite resource, latest SHA256 D1837BAEAC230F29024ABF52AC0A9FB5DFC6716DB723B40F6AA23A227191E907
+- AutoHook 6.0.0.68: localized zh satellite resource, latest SHA256 2D889AD28A5859AE501FE9B6BC14C2F58D420EB70C9CC095F26E7A1601F63C2A
 - BossModReborn 7.5.1.23: localized DLL, latest SHA256 6CDC876A2D7076F021D920554A24E20A85E0330993DC2E9C213893103FFB3815
 - GatherBuddyReborn 7.5.0.3: localized DLL, latest SHA256 8FADD543DCAD1F5D6F0EB60E78212DBBE2E8F95B6981E767F34143427620673F
 - ICE 1.0.0.0: localized DLL, latest SHA256 3C478A13C42E3DB383230A39A478E6C6CB5BBF519B649FF3F0AFAA149B6C3F52
@@ -21,3 +21,4 @@ Player-facing UI, help text, and gameplay terms are localized. IPC names, config
 ## Runtime Status
 
 Static package verification passed. Runtime in-game UI loading and plugin behavior are not yet verified after the latest package rebuild.
+
