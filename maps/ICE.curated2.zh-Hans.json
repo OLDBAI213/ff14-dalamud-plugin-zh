@@ -1,0 +1,19 @@
+{
+  "Add New Command": "添加新命令",
+  "Avoid Stellar Return for pathing": "寻路时避免使用星际返回",
+  "Crafting Return Spot": "制作返回点",
+  "Distance before hub return is used (yalms)": "触发返回枢纽前的距离（星码）",
+  "Honestly, just wanted to say thank you for using my plugin, you're appreciated <3": "说真的，只是想谢谢你使用我的插件，感谢支持 <3",
+  "Import New Preset": "导入新预设",
+  "New Profile": "新配置",
+  "New Profile Name": "新配置名称",
+  "Rows for missions not in MissionScores.csv, using BronzeScore from sheets.": "MissionScores.csv 中没有的任务行将使用表格中的 BronzeScore。",
+  "Save New List": "保存新列表",
+  "This does abosolutely nothing\nBut I know there's going to be people who enable this and don't read, so it's a tehe.\nThanks for using my plugin though, it means a lot <3": "这个选项完全没有作用。\n但我知道一定有人会不看说明就启用，所以放在这里开个玩笑。\n感谢使用我的插件，这对我很重要 <3",
+  "Update Best Mission": "更新最佳任务",
+  "Use personal return spots": "使用个人返回点",
+  "When enabled, Stellar Return will still be used to return to the hub\nfor activities like credit purchases, gambling, drone bits, and repairs.": "启用后，仍会使用星际返回回到枢纽，\n用于购买信用点、抽奖、无人机零件和修理等活动。",
+  "When enabled, the pathfinder will not use Stellar Return to travel to gathering nodes.\nThis applies to both Hub Return and Hub + Aethernet travel methods.": "启用后，寻路器不会使用星际返回前往采集点。\n这适用于“返回枢纽”和“枢纽 + 以太之光”两种移动方式。",
+  "Why are tennis pros always hugging each other?\nBecause they start their match at \"Love All\"": "为什么网球职业选手总是互相拥抱？\n因为他们一开局就是 Love All。",
+  "Will only work while using ICE and not manual mode\nWill also pause pandora cordial usage while on the moon": "仅在使用 ICE 且非手动模式时生效。\n在月球上时也会暂停 Pandora 强心剂使用。"
+}

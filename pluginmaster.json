@@ -4,7 +4,7 @@
     "Name": "Artisan",
     "Punchline": "一体化制作辅助插件。",
     "Description": "一体化制作插件，用于配方队列、求解器、批量制作和重复制作等制作流程辅助。",
-    "Changelog": "中文本地化包 4.0.5.16，更新日期 2026-07-09。主 DLL 已覆盖；补充 43 条可见帮助/说明文本。",
+    "Changelog": "中文本地化包 4.0.5.16，更新日期 2026-07-09。主 DLL 已覆盖；修正 Raphael/求解器/装备耐久/制作语境等准确性文本。",
     "Tags": [
       "crafting"
     ],
@@ -40,7 +40,7 @@
     "Name": "AutoHook",
     "Punchline": "自动提钩，让钓鱼少一点重复操作。",
     "Description": "钓鱼辅助插件，可按规则自动提钩并管理钓鱼相关配置。",
-    "Changelog": "中文本地化包 6.0.0.67，更新日期 2026-07-09。主 DLL 未改；zh 资源 527 条中英文-only 为 0。",
+    "Changelog": "中文本地化包 6.0.0.67，更新日期 2026-07-09。主 DLL 未改；zh 资源 527 条中只变更 19 条，修正提钩、鱼识、专一垂钓、拍击水面、大鱼猎手、熟练妙招等捕鱼术语。",
     "Tags": [
       "Gathering",
       "Fishing"
@@ -77,7 +77,7 @@
     "Name": "Bossmod Reborn",
     "Punchline": "大脑按摩用的(在线安装Only)",
     "Description": "后期软件兼容版",
-    "Changelog": "中文本地化包 7.5.1.23，更新日期 2026-07-09。主 DLL 已覆盖。",
+    "Changelog": "中文本地化包 7.5.1.23，更新日期 2026-07-09。主 DLL 已覆盖；修正 charge/tankbuster/stack/raidwide 等机制语境，并补充通用死刑提示热修。",
     "Tags": [
       "combat",
       "boss",
@@ -123,7 +123,7 @@
     "Name": "GatherBuddy Reborn（采集助手）",
     "Punchline": "采集、钓鱼与自动采集辅助。",
     "Description": "按物品名查找采集点、鱼类和位置，追踪限时采集/天气条件，并可按指定列表自动采集。自动采集需要 vnavmesh。",
-    "Changelog": "中文本地化包 7.5.0.3，更新日期 2026-07-09。主 DLL 已覆盖；未整包降级。",
+    "Changelog": "中文本地化包 7.5.0.3，更新日期 2026-07-09。主 DLL 已覆盖；修正 Raphael、商人购买清单、材料、HQ 材料、签名字节等。",
     "Tags": [
       "Gathering",
       "Fishing",
@@ -169,7 +169,7 @@
     "Name": "Ice's Cosmic Exploration（宇宙探索助手）",
     "Punchline": "宇宙探索采集辅助。",
     "Description": "用于宇宙探索内容的采集与任务辅助工具。",
-    "Changelog": "中文本地化包 1.0.0.0，更新日期 2026-07-09。主 DLL 已覆盖；未整包降级。",
+    "Changelog": "中文本地化包 1.0.0.0，更新日期 2026-07-09。主 DLL 已覆盖；修正宇宙探索任务、红色警报、金牌/银牌/铜牌、职业、基地、遗物工具等语境。",
     "Tags": [
       "Gatherers"
     ],
@@ -205,7 +205,7 @@
     "Name": "Macro Mate（宏管理）",
     "Punchline": "保存并运行不限数量的宏，也可绑定到普通宏栏位。",
     "Description": "Macro Mate 可以保存并运行不限数量的宏，也可以把宏绑定到普通宏栏位。\n\n例如，你可以：\n\n- 进入副本时自动切换正确的副本宏\n- 保存更长的宏，并自动拆分到多个宏栏位\n- 为宏使用游戏中几乎任意图标\n",
-    "Changelog": "中文本地化包 1.0.27.4，更新日期 2026-07-09。主 DLL 已覆盖；补充 9 条可见帮助/标签文本。",
+    "Changelog": "中文本地化包 1.0.27.4，更新日期 2026-07-09。主 DLL 已覆盖；补充路径帮助、图标分类、按钮、订阅、宏栏位状态等可见文本。",
     "Tags": [
       "macros"
     ],
@@ -238,10 +238,10 @@
   },
   {
     "Author": "Aida Enna",
-    "Name": "Teamcraft 列表工具",
-    "Punchline": "右键物品时新增菜单，可快速加入/移出列表并导出到 Teamcraft",
+    "Name": "Teamcraft 清单工具",
+    "Punchline": "右键物品时新增菜单，可快速加入/移出清单并导出到 Teamcraft",
     "Description": "不用再切出去，也不用手写物品名；直接加入列表并导出即可。\n\n此插件并非 Teamcraft 官方制作，Teamcraft 团队不对其负责。如需报告问题或请求新功能，请点击地球图标并在 issues 页提交。\n\n（Logo 已获 Teamcraft 所有者授权使用）",
-    "Changelog": "中文本地化包 1.0.1.2，更新日期 2026-07-09。主 DLL 已覆盖。",
+    "Changelog": "中文本地化包 1.0.1.2，更新日期 2026-07-09。主 DLL 已覆盖；将 Teamcraft 语境统一为“清单”，修正导出/清空/加入/移除提示。",
     "Tags": [
       "teamcraft",
       "craft",
@@ -280,7 +280,7 @@
     "Name": "无人岛工坊优化器",
     "Punchline": "优化无人岛工坊排程",
     "Description": "进入无人岛后使用 /wso 打开，用于优化无人岛工坊排程。",
-    "Changelog": "中文本地化包 0.3.2.0，更新日期 2026-07-09。主 DLL 已覆盖。",
+    "Changelog": "中文本地化包 0.3.2.0，更新日期 2026-07-09。主 DLL 已覆盖；按无人岛工坊语境修正下周制品、远征素材、远征目的地。",
     "Tags": [
       "island",
       "workshop",
@@ -323,7 +323,7 @@
     "Name": "Wrath Combo",
     "Punchline": "将连击和互斥技能合并到同一个按键。",
     "Description": "把连击、互斥技能和部分循环逻辑整合到更少的按键中，减少重复按键操作。",
-    "Changelog": "中文本地化包 1.0.4.13，更新日期 2026-07-09。主 DLL 未改；zh-Hans 资源已存在并可读。",
+    "Changelog": "中文本地化包 1.0.4.13，更新日期 2026-07-09。主 DLL 已覆盖；修正 DTR 提示、MOTD 地址、Missing HP、Dead、Bunnies、Raiser DPS 等。",
     "Tags": [
       "combo",
       "wrath",

@@ -1,0 +1,10 @@
+{
+  " open <path> (try ": " open <path>（可尝试 ",
+  " run <path> (try ": " run <path>（可尝试 ",
+  "' (row: ": "”（行：",
+  "' in ": "”在 ",
+  "err: ": "错误：",
+  "icon id": "图标 ID",
+  "icon id: ": "图标 ID：",
+  "result: ": "结果："
+}

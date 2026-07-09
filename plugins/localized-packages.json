@@ -1,0 +1,152 @@
+[
+  {
+    "internalName": "Artisan",
+    "version": "4.0.5.16",
+    "method": "旧汉化映射复用 + 本地字符串补丁 + 手工可见说明补丁",
+    "package": "Artisan-4.0.5.16-zh.zip",
+    "size": 11506997,
+    "sha256": "196F747078CBBD6178AC7E699AD0C1C7A16D9CFF3249F531339D8E298A4E020B",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/Artisan-4.0.5.16-zh.zip",
+    "dllSha256": "A2BA4E654FDA59F7C7889D76449318B0EF42A3F38E1E9D46E1020DC706E8084E",
+    "maps": [
+      "Artisan.final.zh-Hans.json",
+      "Artisan.curated2.zh-Hans.json",
+      "Artisan.manual3.zh-Hans.json",
+      "Artisan.accuracy-hotfix3.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；修正 Raphael/求解器/装备耐久/制作语境等准确性文本。"
+  },
+  {
+    "internalName": "AutoHook",
+    "version": "6.0.0.67",
+    "method": "补齐并修正 zh 资源 DLL",
+    "package": "AutoHook-6.0.0.67-zh.zip",
+    "size": 4014092,
+    "sha256": "3F602AFCF90D041EA2EBC81B71B768D73678F5F688F8F100F2A7732669148684",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/AutoHook-6.0.0.67-zh.zip",
+    "dllSha256": "3244E97BF34CDE0BFECABB6CF2EE3700873B9C05FC3D62AB0E3EF0E1367341AA",
+    "maps": [
+      "AutoHook.zh-resource-hotfix1.json"
+    ],
+    "notes": "主 DLL 未改；zh 资源 527 条中只变更 19 条，修正提钩、鱼识、专一垂钓、拍击水面、大鱼猎手、熟练妙招等捕鱼术语。"
+  },
+  {
+    "internalName": "BossModReborn",
+    "version": "7.5.1.23",
+    "method": "本地字符串补丁",
+    "package": "BossModReborn-7.5.1.23-zh.zip",
+    "size": 7395965,
+    "sha256": "B907F9E9AA917163832AE7C71F53F4734BBEB04FE27D9A1AEDAB7C3233E40508",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/BossModReborn-7.5.1.23-zh.zip",
+    "dllSha256": "6CDC876A2D7076F021D920554A24E20A85E0330993DC2E9C213893103FFB3815",
+    "maps": [
+      "BossModReborn.final.zh-Hans.json",
+      "BossModReborn.curated2.zh-Hans.json",
+      "BossModReborn.accuracy-hotfix1.zh-Hans.json",
+      "BossModReborn.accuracy-hotfix2.zh-Hans.json",
+      "BossModReborn.accuracy-hotfix3.zh-Hans.json",
+      "BossModReborn.accuracy-hotfix4.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；修正 charge/tankbuster/stack/raidwide 等机制语境，并补充通用死刑提示热修。"
+  },
+  {
+    "internalName": "GatherBuddyReborn",
+    "version": "7.5.0.3",
+    "method": "旧汉化映射复用 + 本地字符串补丁",
+    "package": "GatherBuddyReborn-7.5.0.3-zh.zip",
+    "size": 6933434,
+    "sha256": "5F14613CCD2BFA039F5C19EDBA9D37691CBEEB31B56521643883A3B8FD73CC5A",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/GatherBuddyReborn-7.5.0.3-zh.zip",
+    "dllSha256": "8FADD543DCAD1F5D6F0EB60E78212DBBE2E8F95B6981E767F34143427620673F",
+    "maps": [
+      "GatherBuddyReborn.final.zh-Hans.json",
+      "GatherBuddyReborn.curated2.zh-Hans.json",
+      "GatherBuddyReborn.accuracy-hotfix2.zh-Hans.json",
+      "GatherBuddyReborn.accuracy-hotfix3.zh-Hans.json",
+      "GatherBuddyReborn.hotfix-signature.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；修正 Raphael、商人购买清单、材料、HQ 材料、签名字节等。"
+  },
+  {
+    "internalName": "ICE",
+    "version": "1.0.0.0",
+    "method": "旧汉化映射复用 + 本地字符串补丁",
+    "package": "ICE-1.0.0.0-zh.zip",
+    "size": 13204336,
+    "sha256": "47F631FF2F7A8263A8786833E1311D2106C87748125A322C281705920613E570",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/ICE-1.0.0.0-zh.zip",
+    "dllSha256": "3C478A13C42E3DB383230A39A478E6C6CB5BBF519B649FF3F0AFAA149B6C3F52",
+    "maps": [
+      "ICE.final.zh-Hans.json",
+      "ICE.curated2.zh-Hans.json",
+      "ICE.accuracy-hotfix4.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；修正宇宙探索任务、红色警报、金牌/银牌/铜牌、职业、基地、遗物工具等语境。"
+  },
+  {
+    "internalName": "MacroMate",
+    "version": "1.0.27.4",
+    "method": "本地字符串补丁 + 手工帮助页补丁",
+    "package": "MacroMate-1.0.27.4-zh.zip",
+    "size": 793583,
+    "sha256": "B161610C2D91ACA3715F061A0CA1ADEE7F14EFC02D539F553F76C83F4191BE86",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/MacroMate-1.0.27.4-zh.zip",
+    "dllSha256": "B42BC7DE245F008086EF67902E8FE4E67B7039BB750A45611D444FFAD142531B",
+    "maps": [
+      "MacroMate.zh-Hans.json",
+      "MacroMate.extra.zh-Hans.json",
+      "MacroMate.extra2.zh-Hans.json",
+      "MacroMate.manual3.zh-Hans.json",
+      "MacroMate.accuracy-hotfix4.zh-Hans.json",
+      "MacroMate.accuracy-hotfix5.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；补充路径帮助、图标分类、按钮、订阅、宏栏位状态等可见文本。"
+  },
+  {
+    "internalName": "TeamcraftListMaker",
+    "version": "1.0.1.2",
+    "method": "本地字符串补丁",
+    "package": "TeamcraftListMaker-1.0.1.2-zh.zip",
+    "size": 15289,
+    "sha256": "2A49DD792663637A048C7B79D0FA18ED1C8174051360070D5739F33E88A2A514",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/TeamcraftListMaker-1.0.1.2-zh.zip",
+    "dllSha256": "130FA65E52838D19F5364ADDC7B576BFF12581D30C36DBFCEE618904B63C8AFD",
+    "maps": [
+      "TeamcraftListMaker.zh-Hans.json",
+      "TeamcraftListMaker.accuracy-hotfix1.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；将 Teamcraft 语境统一为“清单”，修正导出/清空/加入/移除提示。"
+  },
+  {
+    "internalName": "WorkshopOptimizerPlugin",
+    "version": "0.3.2.0",
+    "method": "本地字符串补丁",
+    "package": "WorkshopOptimizerPlugin-0.3.2.0-zh.zip",
+    "size": 48185,
+    "sha256": "4AC7B938607AC135FD2912257BC6EA92584F66B2998E3614A3AE0BC207C816AF",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/WorkshopOptimizerPlugin-0.3.2.0-zh.zip",
+    "dllSha256": "4DE2C8B1E49EB8CC7E7130A79CB3A00184800E2FB4E09AFD6DE0F08A2AB9953A",
+    "maps": [
+      "WorkshopOptimizerPlugin.zh-Hans.json",
+      "WorkshopOptimizerPlugin.accuracy-hotfix1.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；按无人岛工坊语境修正下周制品、远征素材、远征目的地。"
+  },
+  {
+    "internalName": "WrathCombo",
+    "version": "1.0.4.13",
+    "method": "补齐 zh-Hans 资源 DLL",
+    "package": "WrathCombo-1.0.4.13-zh.zip",
+    "size": 2586672,
+    "sha256": "76431183000E5FB4B932DF22F0D4DCC2F97861458BD71384742B289F77437F50",
+    "download": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/WrathCombo-1.0.4.13-zh.zip",
+    "dllSha256": "93C5CF95BC087EF204D4518EDC0D15AB14597A79344F50DB50A756F4F5CE31BD",
+    "maps": [
+      "WrathCombo.il-hotfix.zh-Hans.json",
+      "WrathCombo.visible-hotfix2.zh-Hans.json",
+      "WrathCombo.visible-hotfix3.zh-Hans.json",
+      "WrathCombo.accuracy-hotfix4.zh-Hans.json"
+    ],
+    "notes": "主 DLL 已覆盖；修正 DTR 提示、MOTD 地址、Missing HP、Dead、Bunnies、Raiser DPS 等。"
+  }
+]

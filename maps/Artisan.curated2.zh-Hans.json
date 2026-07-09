@@ -1,0 +1,21 @@
+{
+  " Phase": " 阶段",
+  "Add new items to lists this many times from context menu": "从右键菜单添加新物品到列表时重复添加的次数",
+  "Add new profile": "添加新配置",
+  "Add to New Artisan Crafting List": "添加到新的 Artisan 制作清单",
+  "Add to New Artisan Crafting List (with Sub-crafts)": "添加到新的 Artisan 制作清单（含半成品）",
+  "Adding as new ": "添加为新的 ",
+  "Automatic Action Execution Mode": "自动动作执行模式",
+  "Could not save new Macro from Clipboard:\n": "无法从剪贴板保存新宏：\n",
+  "Insert New Action (": "插入新动作（",
+  "Insert New Action - Same As Previous (": "插入新动作 - 与上一步相同（",
+  "New Macro": "新宏",
+  "New script path": "新脚本路径",
+  "Replaces the button when not using Auto Action Mode to execute the next action to queue up a specified number of actions, similar to macros.": "未使用自动动作模式时，将按钮改为执行下一动作并排入指定数量的动作，类似宏。",
+  "Saved new macro to Raphael cache, ID: ": "已将新宏保存到 Raphael 缓存，ID: ",
+  "Set new items added to list as quick synth": "将新加入列表的物品设为快速制作",
+  "Starting quality: ": "初始品质：",
+  "These are the pop-ups whenever a new action is recommended.": "这些是推荐新动作时显示的弹窗。",
+  "This will change the Craft-X button interface to one using native game assets.": "将 Craft-X 按钮界面改为使用游戏原生资源。",
+  "or is not required due to owning crafted materials using this ingredient": "或因为已拥有使用该材料制作出的半成品而无需制作"
+}
