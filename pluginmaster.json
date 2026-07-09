@@ -9,7 +9,7 @@
       "crafting"
     ],
     "CategoryTags": null,
-    "IsHide": null,
+    "IsHide": false,
     "InternalName": "Artisan",
     "AssemblyVersion": "4.0.5.16",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
@@ -138,7 +138,7 @@
       "Jobs",
       "Utility"
     ],
-    "IsHide": null,
+    "IsHide": false,
     "InternalName": "GatherBuddyReborn",
     "AssemblyVersion": "7.5.0.3",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
@@ -210,7 +210,7 @@
       "macros"
     ],
     "CategoryTags": null,
-    "IsHide": null,
+    "IsHide": false,
     "InternalName": "MacroMate",
     "AssemblyVersion": "1.0.27.4",
     "RepoUrl": "https://github.com/grittyfrog/MacroMate",
@@ -249,7 +249,7 @@
       "aida"
     ],
     "CategoryTags": null,
-    "IsHide": null,
+    "IsHide": false,
     "InternalName": "TeamcraftListMaker",
     "AssemblyVersion": "1.0.1.2",
     "RepoUrl": "https://github.com/Aida-Enna/TeamcraftListMaker",
@@ -287,7 +287,7 @@
       "optimizer"
     ],
     "CategoryTags": null,
-    "IsHide": null,
+    "IsHide": false,
     "InternalName": "WorkshopOptimizerPlugin",
     "AssemblyVersion": "0.3.2.0",
     "RepoUrl": "https://github.com/belzaru17/WorkshopOptimizerPlugin",
@@ -335,7 +335,7 @@
       "pvp"
     ],
     "CategoryTags": null,
-    "IsHide": null,
+    "IsHide": false,
     "InternalName": "WrathCombo",
     "AssemblyVersion": "1.0.4.13",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
